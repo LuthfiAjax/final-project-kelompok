@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "luthfi-coding-studio",
+  "private_key_id": "91795baf9805daa487951f350527018d5f2f3c29",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCGYBow2mHcYSTS\nNCDpol+q11WZWtBljnFIAxP/HcG3lFNynot8C9uVezsa+GR59vUY6eDkHOTqTcQZ\nKbMuJ9pasjXovPLwnej0jBrrasCWGJX4jsmyokzyd+pdTYVHMu2gHgnypeI7QuOT\nZ76vgQa2Y1PXDgggqfeAnu9ZwlI9d6gktHh3ZllwpbkF8o5Rnp6j7OEXgy3iNFi0\nDmv6XJmj94y4wJzZf1nW+Z64S0JaCEiuv4VBhI/x9cKV4JsWl4rqfMw6VGao/5EE\nVDQB1e+o59ZrydpqcqpKp7GdGWjuhtmK2QD/2MtCDpY72F8TPN3SPxMigN15ozY5\nQMZZpVa5AgMBAAECggEAEKtFvHcuqhGj6W59gbX6g50cOX6WOO7jVxFIrv5APFdq\nRZ7swynOZrvncFhNUILl0x4aH3oFHJqif5OYblqTv+n4/YLI6TfRgNqLcVYoB0aL\n/g4qb54qCO7+s+3MoXEsII9xYPgaeQr6Y5v8P9Wz4TavnQ8Yy4KCGSK+IsaUAJtU\nDHrgn7raTMxEIHCugS2BC/PusUszEoPRA82aHDPYcXl/WY3lxsZffdotdtpo1Gwu\nkZjkJtBhorDUHNgBDyCJ4XhNdOEvmgBYHCBzklbhBpbQScgvXPPTyrd+QxBnlu5v\nhkfyzhnLCb0O2t6mtHU4alUyEL+lUQX6f98eLgXYYQKBgQC6N7EIEJCWpuLfKDbj\nTlKpdsc6Z9hg2cjAcYZzvlLV8m6bt2iboWxZPUQS/jn12MQqljBfRMmPmOhVhcmv\nKVC/omZxhhu6KlTNhlZDmv88AC7H7uQYuDNTCVeLebHXaLSicssjUW4YQas8CJDb\n1gazsearcpwUMFa3Dy8SrkC6EQKBgQC4uxDdsJNlcvuCsH8z1JL/k7lc3kJM0Uk7\nLH4p2h+lF3GpHxfl3XuT5nN6rKY0tlM9lZSsvz0d3eYkNv+tfMMjGtzpjKSKewAQ\nihsDX2qoj2MOK4OnspJy+OD2A1PV6ClQ4n3i6DBMSFCAyOqNzuYrhqSEkIQOmMa+\nywvp//TqKQKBgCF0a+uk/jTymoO499NyeMtVOYm2qlsMBVL9kkgtAzjIqzJyiuqa\n35pQtXAsGEGgxe1YuiwDcarIr8TdmlRLueQTyw/OJiEWBdI+tjTDHeOrrLvioTwH\nq8DZRs8Z9+dZOkqNEQ2xTXQyKA9LAqtcEiwqY+SdXIkL/ig5JB3ZDGvhAoGBAJox\nUreovq9sVXFVvydVJUn9VTimMHMMMfMZhUmLzuQveGjxEjKFN7RRJEzeNXFESqDZ\n7RpwGiSG5qWN3sZBoGP59TFgeqs4Vep4TGn5R/7giI74VVEx5bnf8W6Hgn/G5E2m\nb+tpYX8a0U9d5SJu84KbRVF9iyzf6uywcQZl5llZAoGBAI8qP6+8tK6inLREdqCv\nZayODZBpv67+l/b2P5I+hi+w3+avoWatHaECE/QFuev4j/spK03eI2oL0OIVzyF4\nFVewLGqoFnjlXLdnZg9tE36ffSiiUPO7Bs0sq8SmX2HQtfW4+KVtIjNs47nxehV8\nUUhEwTa6FNk1xNYOclf7PxCV\n-----END PRIVATE KEY-----\n",
+  "client_email": "luthfi-gsc@luthfi-coding-studio.iam.gserviceaccount.com",
+  "client_id": "100189877144467811028",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/luthfi-gsc%40luthfi-coding-studio.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
